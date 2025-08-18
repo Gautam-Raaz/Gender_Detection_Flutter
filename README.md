@@ -2,7 +2,6 @@
 
 This Flutter application performs **gender classification** (Male or Female) from images using a **TensorFlow Lite (TFLite)** model — completely offline with **no internet or API** required.
 
-Datasets link used for model training: https://susanqq.github.io/UTKFace/UTKFace.tar.gz
 ---
 
 ## 🚀 Features
