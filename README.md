@@ -11,6 +11,7 @@ This Flutter application performs **gender classification** (Male or Female) fro
 - ⚡ Fast on-device inference using TFLite
 - 🧠 Custom-trained deep learning model
 - 📱 Simple, intuitive Flutter UI
+- UTKFace dataset for training the model
 
 ---
 
